@@ -1,0 +1,15 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "lsp": {
+    "pyright": {
+      "command": [
+        "C:\\Users\\andrea.fallavollita\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\pyright-langserver.exe",
+        "--stdio"
+      ],
+      "extensions": [".py"],
+      "env": {
+        "PYRIGHT_PYTHON_PATH": "C:\\Users\\andrea.fallavollita\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
+      }
+    }
+  }
+}

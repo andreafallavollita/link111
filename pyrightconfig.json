@@ -1,0 +1,13 @@
+{
+  "python": "C:\\Users\\andrea.fallavollita\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "useLibraryCodeForTypes": true,
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "error",
+  "reportMissingTypeStubs": "warning",
+  "exclude": [
+    "**/__pycache__",
+    "**/.venv",
+    "**/build",
+    "**/dist"
+  ]
+}

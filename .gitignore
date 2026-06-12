@@ -1,0 +1,50 @@
+# Secrets
+.env
+
+# Database
+*.db
+
+# Runtime files
+last_run.json
+growth_run.log
+growth_dashboard.csv
+_queue_check.py
+scrape_run.log
+*.pyc
+__pycache__/
+*.pyo
+
+# Logs and debug artifacts
+*.log
+*.err
+*.png
+*.html
+
+# Personal/contact data
+connections_list.json
+contact_status_check.json
+contact_status_check.csv
+contact_report.csv
+apollo_clean_import.csv
+apollo_linkedin_links.csv
+connections_match_report.csv
+exports/
+inspect_screenshot.png
+invite_page.html
+invite_page.png
+search_page.html
+wake_test.txt
+
+# Excel source files (personal data)
+*.xlsx
+
+# Python package files
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
